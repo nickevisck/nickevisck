@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nicolas Amorim
+# Hi 👋, I'm Nicolas Levandowski Amorim
 
 🎓 Information Systems Student | 2nd Semester  
 💻 Aspiring Software Developer | 🇧🇷 Brazil
