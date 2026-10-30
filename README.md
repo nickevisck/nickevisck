@@ -71,6 +71,6 @@ I'm currently focused on learning, building projects, and preparing myself for m
 
 🐙 GitHub — nickevisck
 
-💼 LinkedIn — 
+💼 LinkedIn — www.linkedin.com/in/nicolas-levandowski-amorim-038a523ba
 
 📸 Instagram — nicollasamorim_
