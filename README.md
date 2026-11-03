@@ -113,8 +113,8 @@ I'm currently looking for my first internship opportunity in the IT field, where
 
 💼 LinkedIn: [Nicolas Levandowski Amorim](https://www.linkedin.com/in/nicolas-levandowski-amorim-038a523ba/)
 
-🐙 GitHub: @nickevisck
+🐙 GitHub: [@nickevisck](https://github.com/nickevisck)
 
-📸 Instagram: @nicollasamorim_
+📸 Instagram: [@nicollasamorim_](https://www.instagram.com/nicollasamorim_/)
 
 ## ⭐ Thanks for visiting my profile!
