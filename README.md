@@ -84,7 +84,7 @@ A system designed to manage inventory operations, organize products, and generat
 
 - 🤝 Collaboration with the development team.
 
-- 🔗 View Project on GitHub
+- 🔗 [View Project on GitHub](https://github.com/garciaa43/A3_Controle_De_Estoque)
 
 ---
 
@@ -111,7 +111,7 @@ I'm currently looking for my first internship opportunity in the IT field, where
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: Nicolas Levandowski Amorim
+💼 LinkedIn: [Nicolas Levandowski Amorim](https://www.linkedin.com/in/nicolas-levandowski-amorim-038a523ba/)
 
 🐙 GitHub: @nickevisck
 
